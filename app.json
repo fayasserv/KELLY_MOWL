@@ -1,6 +1,6 @@
 {
-    "name": "KELLY_MOWL",
-    "description": "KELLY_MOWL bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
+    "name": "BADBOY BY BADBOY MODER",
+    "description": "pinky bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
     "logo": "https://avatars.githubusercontent.com/u/83832372?v=4",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/afnanplk/lastpink",
@@ -109,7 +109,7 @@
          "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━━╼⤏KELLY_MOWL⤎╾━━━•"
+            "value": "•━━━━╼⤏PINKY BOT⤎╾━━━•"
         },
         "HEROKU_API_KEY": {
             "description": "Herokuda API Keyiniz. Heroku API Key.",
@@ -166,7 +166,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "i am alive  \n\n ```coded by fayasserv```"
+            "value": "i am alive  \n\n ```coded by afnan pallikkel```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
